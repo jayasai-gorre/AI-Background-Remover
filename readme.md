@@ -1,6 +1,6 @@
 # ✨ AI Background Remover Platform with Spring Boot + MySQL + React ⚡
 
-An end-to-end full-stack platform to remove image backgrounds effortlessly using the ClipDrop API, with authentication via Clerk, payment integration via Razorpay, and built with modern tools like Spring Boot, React, Tailwind CSS, and Vite.
+An end-to-end full-stack platform to remove image backgrounds effortlessly using the ClipDrop API, with authentication via Clerk, payment integration via Razorpay, and built with modern tools like Spring Boot, MySQL, React, Tailwind CSS, and Vite.
 
 ---
 
