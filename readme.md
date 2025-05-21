@@ -4,6 +4,15 @@ An end-to-end full-stack platform to remove image backgrounds effortlessly using
 
 ---
 
+## Demo Video
+
+Watch the demo below to see the project in action:
+https://github.com/user-attachments/assets/e9a702ab-7820-43ef-b1af-1f4fbaf61bbb
+
+
+
+
+
 ## 🚀 Features
 
 - 🧠 AI-powered image background removal (ClipDrop API)
